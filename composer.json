@@ -1,0 +1,9 @@
+{
+    "name": "m9869/ctl",
+    "autoload": {
+        "psr-4": {
+            "M9869\\Ctl\\": "src/"
+        }
+    },
+    "require": {}
+}
